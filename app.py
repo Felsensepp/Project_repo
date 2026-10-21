@@ -1,7 +1,6 @@
-import Feature_01
 import streamlit as st
 
-From Feature_01 import return_even(x)
+from Feature_01 import return_even
 
 original_list = [i for i in range(10)]
 
